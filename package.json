@@ -18,7 +18,9 @@
     "airbnb",
     "prettier",
     "typescript",
-    "react"
+    "react",
+    "shahbaz17",
+    "mdsbzalam-eslint"
   ],
   "scripts": {
     "lint": "eslint --fix ./**/*.js"
