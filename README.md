@@ -123,7 +123,7 @@ By default, ESLint will search for `./tsconfig.json` to understand your TypeScri
 
 ### Configuring Prettier
 
-By default, ESLint will search for a [`.prettierrc` file](https://prettier.io/docs/en/configuration.html) to understand your code-formatting preferences. [I've also created a library of default Prettier settings that I like to use.](https://github.com/smithki/prettier-config)
+By default, ESLint will search for a [`.prettierrc` file](https://prettier.io/docs/en/configuration.html) to understand your code-formatting preferences. [I've also created a library of default Prettier settings that I like to use.](https://github.com/shahbaz17/prettier-config)
 
 Though not recommended, if you would prefer to set your Prettier configuration inside of ESLint itself, you can do so:
 
